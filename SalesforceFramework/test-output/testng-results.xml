@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-02T23:33:37 IST" name="Default suite" finished-at="2024-01-02T23:33:45 IST" duration-ms="7541">
+    <groups>
+    </groups>
+    <test started-at="2024-01-02T23:33:37 IST" name="Default test" finished-at="2024-01-02T23:33:45 IST" duration-ms="7541">
+      <class name="EndtoEndFlow.LoginTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:EndtoEndFlow.LoginTest@41fbdac4]" started-at="2024-01-02T23:33:37 IST" name="Initalization" finished-at="2024-01-02T23:33:41 IST" duration-ms="3604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="LoginValidation()[pri:0, instance:EndtoEndFlow.LoginTest@41fbdac4]" started-at="2024-01-02T23:33:41 IST" name="LoginValidation" finished-at="2024-01-02T23:33:45 IST" duration-ms="3875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginValidation -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:EndtoEndFlow.LoginTest@41fbdac4]" started-at="2024-01-02T23:33:45 IST" name="CleanUp" finished-at="2024-01-02T23:33:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- EndtoEndFlow.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
